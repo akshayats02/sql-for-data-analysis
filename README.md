@@ -13,7 +13,7 @@ The dataset includes tables such as Customers, Orders, Products, and OrderDetail
 
 ## Contents
 
-- `queries.sql` — All SQL queries written for the analysis  
+- 
 - `screenshots/` — Screenshots showing output for each query
 
 ---
@@ -32,7 +32,7 @@ The dataset includes tables such as Customers, Orders, Products, and OrderDetail
 
 ## Tools Used
 
-- SQL (MySQL syntax)  
+-
 - DB Fiddle online platform for testing queries
 
 ---
